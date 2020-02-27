@@ -1,0 +1,10 @@
+#container{
+    padding: 70px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+form input, form button, form label{
+    margin: 10px;
+}
